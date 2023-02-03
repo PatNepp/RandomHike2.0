@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links-container span{
+    margin: 0 10px;
+}
+
+.nav-cart-icons span {
+    margin: 0 10px;
+}
